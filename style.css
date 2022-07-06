@@ -1,0 +1,93 @@
+h1 {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5px;
+}
+
+
+.half-width img {
+    width: 100%;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.gray-color {
+    color: gray;
+    text-align: center;
+}
+
+.paraghrap-color {
+    color: gray;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 0;
+    padding-left: 20px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 45px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
+
+#image-size {
+    width: 50%;
+}
+
+.two-part {
+    margin: 0;
+}
+
+.third-part {
+    margin-right: 30px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.top-banner {
+    background-image: url(images/shapes/7.png);
+
+}
+
+.experience-item {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    width: 40%;
+    padding: 30px;
+
+}
+
+footer {
+    background-color: black;
+    padding-bottom: 200px;
+}
+
+#orange {
+    color: orange;
+}
+
+#red {
+    color: red;
+}
+
+footer p {
+    color: white;
+}
